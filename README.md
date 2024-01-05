@@ -1,25 +1,28 @@
-# Howdy!
+# Howdy! 🤠
 
-I'm <b> Mark Mueller</b>, an undergraduate student enrolled at Southwestern University. I'm currently pursuing a Bachelor's in Computer Science, and I am set to graduate in May of 2024. Below is an overview of my expreience using GitHub, but for a more in depth look into my experience, check out my LinkedIn: [![Linkedin: Mark Mueller](https://img.shields.io/badge/-MarkMueller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/muellermark2002/](https://www.linkedin.com/in/muellermark2002/))](https://www.linkedin.com/in/muellermark2002/)
-
-
-<a href="https://github.com/MuellMark/MuellMark">
-  <img align="center" src="https://github-readme-stats-copy.vercel.app/api/top-langs/?username=MuellMark&theme=tokyonight&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=donut" />
-</a>
-
-<a href="https://github.com/MuellMark/MuellMark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuellMark&show_icons=true&theme=tokyonight&line_height=28&include_all_commits&count_private=true" />
-</a>
+I'm <b> Mark Mueller</b>, an undergraduate student enrolled at Southwestern University. I'm currently pursuing a Bachelor's in Computer Science, and I am set to graduate in May of 2024. Below is an overview of my experience using GitHub, but for a more in depth look into everything, check out my LinkedIn: [![Linkedin: Mark Mueller](https://img.shields.io/badge/-MarkMueller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/muellermark2002/](https://www.linkedin.com/in/muellermark2002/))](https://www.linkedin.com/in/muellermark2002/)
 
 
+  <img align="center" src="https://github-readme-stats-copy.vercel.app/api/top-langs/?username=MuellMark&theme=tokyonight&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=donut" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=MuellMark&show_icons=true&theme=tokyonight&line_height=28&include_all_commits&count_private=true" />
 
+## About Me
 
+I am currently interning with Wridz, an up-and-coming ride-share company as a software developer. On top of general troubleshooting, I've been working on adding in language support into their application. From there I'll also be refining their log systems to make it easier to parse through while troubleshooting.
 
+I have co-authored 2 academic papers:
+ - **[Evolving Flying Machines in Minecraft Using Quality Diversity](https://dl.acm.org/doi/10.1145/3583131.3590352)**
+ - **[Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls](https://link.springer.com/chapter/10.1007/978-3-031-16538-2_4)**
 
-I am currently interning with Wridz, a up-and-coming ride-share company as a software developer. On top of general troubleshooting, I've been working on adding in language support into their application. From there I'll also be refining their log systems to make it easier to parse through while troubleshooting.
+On top of these I'm in the process of conducting more research in the Theoretical Math and Operations Research sectors. I've refined algorithms and visualized DDM-Labeled graphs, which can be found **[HERE](https://github.com/MuellMark/DDMGraphLabelingGenerator)**, or in the repository found below. I'm also working on creating a program to schedule university courses using PyGLPK (a Python implementation of GLPK). More information on this is to come!
 
-I currently have two published papers in different academic journals: “Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls” and “Evolving Flying Machines in Minecraft Using Quality Diversity." The first of these paper has an emphasis on cooperative design and data analysis, while the latter has an emphasis in genetic and evolutionary computation and artificial intelligence. Conducting this research was invaluable to me, as it allowed me to for my eagerness to learn to blossom. In addition to this, it gave me the opportunity to travel to international destinations, such as Lisbon, Portugal, to present this work. This also let me broaden my horizons by showcasing what other people were achieving on an international stage.
+<img align='right' src='https://github.com/MuellMark/MuellMark/blob/main/happy%20pokemon%20gif.gif' width='300'>
 
-I am continuing my research efforts by creating a university course scheduler using a GLPK package in Python. This work is still being expanded on, and may even be expanded into an interactive application or website. I'm excited to continue work on this!
+On top of all of my research, I also:
+- Work at the IT Department on my campus 🖥
+- Am the president of Southwestern University’s Computer Science Club 👾
+- Am a member of 2 other honor societies 🎓
+- Have a cumulative GPA of 4.0 🤓
+- Can be reached at this email: muemark10@gmail.com 📧
 
-Even in the academic field, I've made great strides to showcase my attention to detail and skill. I have proudly maintained a 4.0 average and I have made the Dean's List every semester through my academic career. On top of this, I am a member of two academic honor's societies and the president of the computer science club. This was all while working two jobs simultaneously and conducting research. If nothing else, I am hard-working and dedicated!
+For more detailed information check out my **[RESUME](https://github.com/MuellMark/MuellMark/blob/main/mark_mueller_resume.pdf)**!
+
