@@ -1,6 +1,6 @@
 # Howdy! 🤠
 
-I'm <b> Mark Mueller</b>, an undergraduate student enrolled at Southwestern University. I'm currently pursuing a Bachelor's in Computer Science, and I am set to graduate in May of 2024. Below is an overview of my experience using GitHub, but for a more in depth look into everything, check out my LinkedIn: [![Linkedin: Mark Mueller](https://img.shields.io/badge/-MarkMueller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/muellermark2002/](https://www.linkedin.com/in/muellermark2002/))](https://www.linkedin.com/in/muellermark2002/)
+I'm <b> Mark Mueller</b>, an undergraduate student enrolled at Southwestern University. I'm currently pursuing a Bachelor's in Computer Science, and I am set to graduate in May of 2024. Below is an overview of my experience using GitHub, but for a more in depth look into my work, check out my LinkedIn: [![Linkedin: Mark Mueller](https://img.shields.io/badge/-MarkMueller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/muellermark2002/](https://www.linkedin.com/in/muellermark2002/))](https://www.linkedin.com/in/muellermark2002/)
 
 
   <img align="center" src="https://github-readme-stats-copy.vercel.app/api/top-langs/?username=MuellMark&theme=tokyonight&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=donut" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=MuellMark&show_icons=true&theme=tokyonight&line_height=28&include_all_commits&count_private=true" />
