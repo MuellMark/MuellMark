@@ -7,20 +7,23 @@ I'm <b> Mark Mueller</b>, an undergraduate student enrolled at Southwestern Univ
 
 ## About Me
 
-I am currently interning with Wridz, an up-and-coming ride-share company as a software developer. On top of general troubleshooting, I've been working on adding in language support into their application. From there I'll also be refining their log systems to make it easier to parse through while troubleshooting.
+I am currently interning with Wridz, an up-and-coming ride-share company as a software developer. On top of general troubleshooting, I've added in language support into their application, and luxury and electric vehicle options. From there I'll also be refining their log systems to make it easier to parse through while troubleshooting.
 
 I have co-authored 2 academic papers:
  - **[Evolving Flying Machines in Minecraft Using Quality Diversity](https://dl.acm.org/doi/10.1145/3583131.3590352)**
  - **[Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls](https://link.springer.com/chapter/10.1007/978-3-031-16538-2_4)**
 
-On top of these I'm in the process of conducting more research in the Theoretical Math and Operations Research sectors. I've refined algorithms and visualized DDM-Labeled graphs, which can be found **[HERE](https://github.com/MuellMark/DDMGraphLabelingGenerator)**, or in the repository found below. I'm also working on creating a program to schedule university courses using PyGLPK (a Python implementation of GLPK). More information on this is to come!
+On top of these I'm in the process of conducting more research in the Theoretical Math and Operations Research sectors. I've refined algorithms and visualized DDM-Labeled graphs, which can be found **[HERE](https://github.com/MuellMark/DDMGraphLabelingGenerator)**, or in the repository found below. 
+
+For my capstone project, I also collaborated with a small team to create course scheduling website that allows department chairs to create schedules. This functions by calling a python script that creates a linear program that is solved by PyGPLK and is then displayed on the site where users can then make edits. That repo can be found **[HERE](https://github.com/MuellMark/Course-Scheduler)**, or in the repository found below. 
+
 
 <img align='right' src='https://github.com/MuellMark/MuellMark/blob/main/happy%20pokemon%20gif.gif' width='300'>
 
 On top of all of my research, I also:
 - Work at the IT Department on my campus 🖥
 - Am the president of Southwestern University’s Computer Science Club 👾
-- Am a member of 2 other honor societies 🎓
+- Am a member of 3 other honor societies 🎓
 - Have a cumulative GPA of 4.0 🤓
 - Can be reached at this email: muemark10@gmail.com 📧
 
