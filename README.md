@@ -13,8 +13,9 @@ I have co-authored 3 academic papers:
  - **[Evolving Flying Machines in Minecraft Using Quality Diversity](https://dl.acm.org/doi/10.1145/3583131.3590352)**
  - **[Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls](https://link.springer.com/chapter/10.1007/978-3-031-16538-2_4)**
  - **[Course Scheduling Made Easier: A User-Friendly Web-Based Timetabling Tool Using PyGLPK](https://link.springer.com/chapter/10.1007/978-3-031-71315-6_26)**
+
 And I helped write code and was awknolwedged on one other paper:
- - **[Difference distance magic oriented graphs]([https://link.springer.com/chapter/10.1007/978-3-031-71315-6_26](https://link.springer.com/epdf/10.1007/s40687-024-00482-7?sharing_token=9YznKUCvHZTZR2SLRl1XQfe4RwlQNchNByi7wbcMAY6hfD3oQtCBljgZZQ9eW1RMPt348pfJZ5qpvxn3BssyywBo-hBIdl3lnswcDDI4EJRPu9MvTUtrBa8F9ZJh4o8QxYJYSTYOpUllJGWLSq1Rxrftxlo7goObZjoBF_UKUbk%3D))** The repo for the algorithms and visualized DDM-Labeled graphs, can be found **[HERE](https://github.com/MuellMark/DDMGraphLabelingGenerator)**, or in the repository found below. 
+ - **[Difference distance magic oriented graphs](https://rdcu.be/d3MYu)** The repo for the algorithms and visualized DDM-Labeled graphs, can be found **[HERE](https://github.com/MuellMark/DDMGraphLabelingGenerator)**, or in the repository found below. 
 
 
 For my capstone project, I also collaborated with a small team to create a course scheduling website that allows department chairs to create schedules. This functions by calling a python script that creates a linear program that is solved by PyGPLK and is then displayed on the site where users can then make edits. That repo can be found **[HERE](https://github.com/MuellMark/Course-Scheduler)**, or in the repository found below. 
@@ -24,7 +25,7 @@ For my capstone project, I also collaborated with a small team to create a cours
 
 On top of all of my research, I also:
 - Graduated with a cumulative GPA of 4.0 🤓
-- was the president of Southwestern University’s Computer Science Club 👾
+- Was the president of Southwestern University’s Computer Science Club 👾
 - Am a member of 3 other honor societies 🎓
 - Can be reached at this email: muemark10@gmail.com 📧
 
